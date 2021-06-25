@@ -1,0 +1,6 @@
+class Worker[id = 5][firstName = Sergey, lastName = Zuev, patronymic = Vecheslavovich, position = manager, yearOfStartWorking = 2010, salary = 99999.000000]
+class Worker[id = 10][firstName = Anton, lastName = Adrian, patronymic = Sergeevich, position = subordinated, yearOfStartWorking = 2014, salary = 99999.000000]
+class Worker[id = 18][firstName = Valentin, lastName = Arnold, patronymic = Victorovich, position = subordinated, yearOfStartWorking = 2020, salary = 99999.000000]
+class Worker[id = 25][firstName = Vladislav, lastName = Babcock, patronymic = Victorovich, position = manager, yearOfStartWorking = 2017, salary = 99999.000000]
+class Worker[id = 30][firstName = Gleb, lastName = Barrington, patronymic = Vecheslavovich, position = subordinated, yearOfStartWorking = 2020, salary = 99999.000000]
+class Worker[id = 34][firstName = Grigory, lastName = Berrington, patronymic = Vecheslavovich, position = subordinated, yearOfStartWorking = 2017, salary = 99999.000000]

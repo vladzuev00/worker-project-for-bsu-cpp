@@ -1,0 +1,4 @@
+class Worker[id = 5][firstName = Sergey, lastName = Zuev, patronymic = Vecheslavovich, position = manager, yearOfStartWorking = 2010, salary = 99999.000000]
+class Worker[id = 11][firstName = Valentina, lastName = Albertson, patronymic = Sergeevna, position = subordinated, yearOfStartWorking = 2010, salary = 20000.000000]
+class Worker[id = 23][firstName = Vitaly, lastName = Austin, patronymic = Victorovich, position = manager, yearOfStartWorking = 2010, salary = 20000.000000]
+class Worker[id = 26][firstName = Viacheslav, lastName = Backer, patronymic = Victorovich, position = manager, yearOfStartWorking = 2010, salary = 20000.000000]
